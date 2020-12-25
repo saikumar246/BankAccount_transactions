@@ -1,0 +1,153 @@
+Welcome to Bank Accout Application
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?a
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?b
+display the transactions
+List of transactions
+Date        Type           Amount
+-----------------------------------------------------
+-----------------------------------------------------
+20201105    deposit    1000.00
+    
+
+20201106    withdraw    149.95
+    
+
+20201101    bank charge    12.00
+    
+
+20201101    interest    1.00
+    
+
+20201201    withdraw    200
+    
+
+20201202    deposit    800
+    
+
+20201202    deposit    450
+    
+
+20201202    withdraw    1200    
+
+
+End of the list
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?c
+enter the date of transcationin the format(yyyymmdd):20201225
+Enter the transaction type from the options(Deposit	Withdraw	Bank charge	interest)deposit
+Enter the amount:2000
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?b
+display the transactions
+List of transactions
+Date        Type           Amount
+-----------------------------------------------------
+-----------------------------------------------------
+20201105    deposit    1000.00
+    
+
+20201106    withdraw    149.95
+    
+
+20201101    bank charge    12.00
+    
+
+20201101    interest    1.00
+    
+
+20201201    withdraw    200
+    
+
+20201202    deposit    800
+    
+
+20201202    deposit    450
+    
+
+20201202    withdraw    1200    
+
+
+20201225    deposit    2000    
+
+
+End of the list
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?d
+current amount: 2689.05
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?e
+save data
+
+-----------------------------------------------------
+-----------------------------------------------------
+A - Read data from the file
+B - Display list of transactions
+C - Add a new transaction
+D - Calculate current balance
+E - Save data to a file
+Q - Quit
+-----------------------------------------------------
+-----------------------------------------------------
+Please select an option by typing A,B,C,D,E or Q?
